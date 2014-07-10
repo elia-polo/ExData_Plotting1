@@ -1,0 +1,1 @@
+The dataset (household_power_consumption.txt) is supposed to be in a folder named "data" within the current directory ("./data/household_power_consumption.txt")
